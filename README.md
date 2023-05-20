@@ -70,11 +70,7 @@
 
 </div>
 <hr>
-<div>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gautam8387)](https://github.com/Gautam8387/github-readme-stats)
-
-</div>
 
 
 <!---
