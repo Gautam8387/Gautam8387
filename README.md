@@ -15,6 +15,8 @@
 
 - 💼 I am currently a research intern at Mphasis Labs.
 
+- 📚 I am also a teaching assistant at Indian Institute of Technology Jodhpur (IITJ), Ashoka University, and Plaksha University.
+
 - 👨‍💻 All of my projects are available [here](https://github.com/Gautam8387?tab=repositories)
 
 - 💬 Ask me about **Algorithm Design, ML**
