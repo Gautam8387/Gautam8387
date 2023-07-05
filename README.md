@@ -23,7 +23,7 @@
 
 - 📫 Reach me: **goutamahuja8387@gmail.com**, **gautam.ahuja_ug24@ashoka.edu.in**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1fokxJtGvfQ3fydGOuTkzKHX6WD29-ckt/view?usp=sharing)
+<!--- 📄 Know about my experiences [here](https://drive.google.com/file/d/1fokxJtGvfQ3fydGOuTkzKHX6WD29-ckt/view?usp=sharing)-->
 <hr>
 
 <div align="center">
