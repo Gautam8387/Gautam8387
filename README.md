@@ -15,6 +15,8 @@
 
 - 💼 I am currently a research intern at Mphasis Labs.
 
+- 📄 Know about my experiences (Resume) [here](https://drive.google.com/file/d/12wukPm6DWKW3_X6kaVhtD8igPnYL8MDd/view?usp=sharing).
+
 - 📚 I am also a teaching assistant at Indian Institute of Technology Jodhpur (IITJ), Ashoka University, and Plaksha University.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Gautam8387?tab=repositories)
@@ -23,7 +25,6 @@
 
 - 📫 Reach me: **goutamahuja8387@gmail.com**, **gautam.ahuja_ug24@ashoka.edu.in**
 
-<!--- 📄 Know about my experiences [here](https://drive.google.com/file/d/1fokxJtGvfQ3fydGOuTkzKHX6WD29-ckt/view?usp=sharing)-->
 <hr>
 
 <div align="center">
