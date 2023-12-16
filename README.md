@@ -15,7 +15,7 @@
 
 - 💼 I am currently a research intern at Mphasis Labs.
 
-- 📄 Know about my experiences (Resume) [here](https://drive.google.com/file/d/12wukPm6DWKW3_X6kaVhtD8igPnYL8MDd/view?usp=sharing).
+- 📄 Know about my experiences (CV) [here](https://drive.google.com/file/d/1VayQpoqwBmkZ0B_qXIFbuSmQ4M6HuwZf/view?usp=sharing).
 
 - 📚 I am also a teaching assistant at Indian Institute of Technology Jodhpur (IITJ), Ashoka University, and Plaksha University.
 
