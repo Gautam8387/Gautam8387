@@ -13,15 +13,15 @@
 
 <hr>
 
-- 💼 I am currently a research intern at Mphasis Labs.
+- 💼 I am currently a research intern at Koita Center for Digital Health
 
-- 📄 Know about my experiences (CV) [here](https://drive.google.com/file/d/1VayQpoqwBmkZ0B_qXIFbuSmQ4M6HuwZf/view?usp=sharing).
+- 📄 Know about my experiences (CV) [here](https://drive.google.com/file/d/1RGh9NgbdJQAlYIRTh3FsJat2yS6jwb9h/view?usp=sharing).
 
-- 📚 I am also a teaching assistant at Indian Institute of Technology Jodhpur (IITJ), Ashoka University, and Plaksha University.
+- 📚 I am also a teaching assistant at the Indian Institute of Technology Jodhpur (IITJ), Ashoka University, and Plaksha University.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Gautam8387?tab=repositories)
 
-- 💬 Ask me about **Algorithm Design, ML**
+<!--- 💬 Ask me about **Algorithm Design, ML**-->
 
 - 📫 Reach me: **goutamahuja8387@gmail.com**, **gautam.ahuja_ug24@ashoka.edu.in**
 
