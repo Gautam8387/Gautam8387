@@ -15,7 +15,7 @@
 
 - 💼 I am currently a research intern at Koita Center for Digital Health
 
-- 📄 Know about my experiences (CV) [here](https://drive.google.com/file/d/1RGh9NgbdJQAlYIRTh3FsJat2yS6jwb9h/view?usp=sharing).
+- 📄 Know about my experiences (CV) [here](https://drive.google.com/file/d/1tI90seTrvgbYbGA_3DKrCVn-L4JV6Zbs/view?usp=sharing).
 
 - 📚 I am also a teaching assistant at the Indian Institute of Technology Jodhpur (IITJ), Ashoka University, and Plaksha University.
 
