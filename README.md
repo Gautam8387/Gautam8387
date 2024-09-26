@@ -39,7 +39,7 @@
 <!-- <a href="https://www.linkedin.com/in/gautam8387/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gautam8387" height="30" width="40" /></a> -->
 
 [!["Github"](https://img.shields.io/badge/-Gautam8387-yellow?style=flat&logo=Github&logoColor=white&link=https://github.com/Gautam8387/)](https://github.com/Gautam8387/)
-[!["Linkedin"](https://img.shields.io/badge/-GautamAhuja-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautam-ahuja-290363213/)](https://www.linkedin.com/in/gautam-ahuja-290363213/)
+[!["Linkedin"](https://img.shields.io/badge/-GautamAhuja-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautam8387/)](https://www.linkedin.com/in/gautam8387/)
 </p>
 <hr>
 
