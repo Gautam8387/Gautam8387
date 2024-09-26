@@ -13,25 +13,26 @@
 
 <hr>
 
-- 💼 I am currently a research intern at Koita Center for Digital Health
+- 💼 I am a research Scientific Computing Engineer at Nygen Analytics.
 
-- 📄 Know about my experiences (CV) [here](https://drive.google.com/file/d/1tI90seTrvgbYbGA_3DKrCVn-L4JV6Zbs/view?usp=sharing).
+- 📄 Know about my experiences (CV) [here](https://drive.google.com/file/d/1xLcp33gRNrDegEdm_JY4g9CVl5adC0MO/view?usp=sharing).
 
-- 📚 I am also a teaching assistant at the Indian Institute of Technology Jodhpur (IITJ), Ashoka University, and Plaksha University.
+- 📚 I was also a teaching assistant at the Indian Institute of Technology Jodhpur (IITJ), Ashoka University, and Plaksha University.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Gautam8387?tab=repositories)
 
 <!--- 💬 Ask me about **Algorithm Design, ML**-->
 
-- 📫 Reach me: **goutamahuja8387@gmail.com**, **gautam.ahuja_ug24@ashoka.edu.in**
+- 📫 Reach me: **goutamahuja8387@gmail.com**, **gautam.ahuja@ashoka.edu.in**
 
 <hr>
 
+<!---
 <div align="center">
-  
   [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gautam8387&&count_private=true&hide=issues,prs&theme=transparent&show_icons=true)](https://github.com/Gautam8387/github-readme-stats)
 </div>
 <hr>
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -73,8 +74,6 @@
 
 </div>
 <hr>
-
-
 
 <!---
 Gautam8387/Gautam8387 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
