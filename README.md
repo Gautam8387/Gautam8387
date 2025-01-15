@@ -1,25 +1,28 @@
-![alt text](./header-gautam-ahuja.png)
-<h3 align="center">ML ∘ Dev ∘ Cloud ∘ Research</h3>
+<!-- ![alt text](./header-gautam-ahuja.png) -->
+<!-- <h3 align="center">ML ∘ Dev ∘ Cloud ∘ Research</h3> -->
 
-<p>3rd Year at Ashoka University majoring in Computer Science with a minor in mathematics. Strong and demonstrated knowledge of computer fundamentals: Programming Paradigms, Data Structures, Operating Systems, Algorithms, Machine Learning, etc.<p>
+<p>4th year undergraduate student at Ashoka University majoring in Computer Science with a minor in mathematics.<p>
 
-<p>Interested in Machine Learning, Computational Learning, Cloud and Research.</p>
+<!-- <p>Interested in Machine Learning, Computational Learning, Cloud and Research.</p> -->
 
-<div align="center"> 
+<p>Focusing 🎯 </p>
+
+<!-- Profile Views -->
+<!-- <div align="center"> 
 
   ![](https://komarev.com/ghpvc/?username=Gautam8387&color=blueviolet)
   
-</div>
+</div> -->
 
 <hr>
 
-- 💼 I am a research Scientific Computing Engineer at Nygen Analytics.
+- 💼 I am a Scientific Computing Engineer at Nygen Analytics.
 
-- 📄 Know about my experiences (CV) [here](https://drive.google.com/file/d/1xLcp33gRNrDegEdm_JY4g9CVl5adC0MO/view?usp=sharing).
+<!-- - 📄 Know about my experiences (CV) [here](https://drive.google.com/file/d/1Zs4XQHPrh8p1gGUOfihriY_wU2b9xQTz). -->
 
-- 📚 I was also a teaching assistant at the Indian Institute of Technology Jodhpur (IITJ), Ashoka University, and Plaksha University.
+- 📚 I was also a teaching assistant at the Indian Institute of Technology Jodhpur (IIT-J), Ashoka University, and Plaksha University.
 
-- 👨‍💻 All of my projects are available [here](https://github.com/Gautam8387?tab=repositories)
+<!-- - 👨‍💻 All of my projects are available [here](https://github.com/Gautam8387?tab=repositories) -->
 
 <!--- 💬 Ask me about **Algorithm Design, ML**-->
 
@@ -34,7 +37,7 @@
 <hr>
 -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Links:</h3>
 <p align="left">
 <!-- <a href="https://www.linkedin.com/in/gautam8387/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gautam8387" height="30" width="40" /></a> -->
 
@@ -43,7 +46,7 @@
 </p>
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -66,14 +69,14 @@
 ![Assembly](https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<hr>
-<div align="center"> 
+<hr> -->
+<!-- <div align="center">  -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam8387&hide=TeX&layout=compact&theme=transparent)](https://github.com/Gautam8387/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam8387&size_weight=0.5&count_weight=0.5&hide=TeX&layout=compact&theme=transparent)](https://github.com/Gautam8387/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam8387&size_weight=0.5&count_weight=0.5&hide=TeX&layout=compact&theme=transparent)](https://github.com/Gautam8387/github-readme-stats) -->
 
-</div>
-<hr>
+<!-- </div> -->
+<!-- <hr> -->
 
 <!---
 Gautam8387/Gautam8387 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
